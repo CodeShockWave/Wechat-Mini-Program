@@ -1,0 +1,36 @@
+<view class="empty_tip ">
+<view class="container_space2"></view>
+<view class="container_space"></view>
+
+<view class="container_title">
+ <text class="style_text_title">请选择您想体验的英语等级</text>
+</view>
+
+<view class="container_space"></view>
+<view class="container_space"></view>
+
+<view class="container_button">
+<button class="style_button" bindtap="inputA">A 级</button>
+</view>
+<view class="container_space3"></view>
+<view class="container_button">
+<button class="style_button" bindtap="inputB">B 级</button>
+</view>
+<view class="container_space3"></view>
+<view class="container_button">
+<button class="style_button" bindtap="inputC">C 级</button>
+</view>
+ 
+<view class="container_space"></view>
+<view class="container_space"></view>
+<view class="container_space"></view>
+
+<view class="container_logo">
+<text class="style_text_logo">仅限学生教学使用</text>
+<text class="style_text_logo">游客请使用体验功能</text>
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+<view class="container_space"></view>
+<view class="container_space2"></view>
+</view>

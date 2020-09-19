@@ -1,0 +1,107 @@
+.empty_tip{
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;/*垂直居中*/
+  justify-content: center;/*水平居中*/
+}
+
+.container_title{
+  width: 750rpx;
+  height: 250rpx;
+  background-color: RGB(68,140,199);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+
+.container_button{
+  width: 750rpx;
+  height: 100rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color:RGB(68,140,199); 
+}
+
+.container_logo{
+  width: 750rpx;
+  height: 150rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: RGB(68,140,199);
+}
+
+.container_space{
+  width: 750rpx;
+  height: 90rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color:  RGB(68,140,199);
+}
+
+.container_space2{
+  width: 750rpx;
+  height: 60rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color:  RGB(68,140,199);
+}
+.container_space3{
+  width: 750rpx;
+  height: 15rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color:  RGB(68,140,199);
+}
+
+
+
+
+.style_text_title{
+  font-size: 55rpx;
+  color: white;
+}
+
+.style_text_logo{
+  font-size: 30rpx;
+  color: white;
+}
+
+.style_button{
+  width: 30%;
+  height: 90%;
+  
+}
+
+
+
+.container_input{
+  width: 750rpx;
+  height: 80rpx;
+  background-color:RGB(68,140,199);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.style_input{
+  width: 600rpx;
+  height: 80rpx;
+  background-color: white;
+}
+

@@ -1,0 +1,26 @@
+<view class="empty_tip">
+
+<view class="title">
+<text class="style_text_logo">Hello, please complete the recording of the material after the audition to get your oral score</text>
+</view>
+ 
+<view class="style_text_content" wx:for="{{visitorPostList}}">{{item.content}}</view> 
+  
+<view class="style_text_score">PronCompletion:{{PronCompletion}}</view>
+<view class="style_text_score">PronFluency:{{PronFluency}}</view>
+<view class="style_text_score">PronAccuracy:{{PronAccuracy}}</view>
+
+
+<view class="container_button">
+<button class="button_style" bindtap="onmusicTap">{{ bofangText }}</button>
+<button class="button_style" ontouchstart="ontouchstart" ontouchend="ontouchend">{{ btnText }}</button>
+</view>
+  
+
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+
+
+</view>

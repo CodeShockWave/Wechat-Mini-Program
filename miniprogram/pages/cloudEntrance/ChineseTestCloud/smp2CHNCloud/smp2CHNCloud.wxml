@@ -1,0 +1,26 @@
+<view class="empty_tip">
+
+<view class="container_title">
+<text class="style_text_logo">Plan This Week</text>
+</view>
+ 
+<view class="style_text_content" >{{content}}</view> 
+<view class="container_space5"></view>
+
+<view class="container_button">
+<button class="button_style" bindtap="onmusicTap">{{ bofangText }}</button>
+
+</view>
+
+
+<view class="container_space4"></view>
+<view class="container_button">
+
+<button class="button_style" bindtap="gotoPlanPage">View Plan</button>
+</view>
+
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+</view>

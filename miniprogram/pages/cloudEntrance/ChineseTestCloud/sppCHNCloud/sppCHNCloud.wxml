@@ -1,0 +1,34 @@
+<view class="empty_tip">
+
+<view class="container_title">
+<text class="style_text_logo">Achievement</text>
+</view>
+ 
+
+  <view class="everyweek" wx:for="{{postList}}">
+  Plan {{item.planId}}
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  Test{{4-item.count}}
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  Average Score:{{item.accuracyScore}}
+  \n
+  </view>
+
+<view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+
+  
+
+  
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+</view>
+
+
+

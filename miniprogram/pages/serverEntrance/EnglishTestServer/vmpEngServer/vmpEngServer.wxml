@@ -1,0 +1,26 @@
+<view class="empty_tip">
+
+<view class="title">
+<text class="style_text_logo">您好，请试听后完成素材录制以获取您的口语评分</text>
+</view>
+ 
+<view class="style_text_content" wx:for="{{visitorPostList}}">{{item.content}}</view> 
+  
+<view class="style_text_score">完整度：{{PronCompletion}}</view>
+<view class="style_text_score">流利度：{{PronFluency}}</view>
+<view class="style_text_score">精准度：{{PronAccuracy}}</view>
+
+
+<view class="container_button">
+<button class="button_style" bindtap="onmusicTap">{{ bofangText }}</button>
+<button class="button_style" ontouchstart="ontouchstart" ontouchend="ontouchend">{{ btnText }}</button>
+</view>
+  
+
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+
+
+</view>

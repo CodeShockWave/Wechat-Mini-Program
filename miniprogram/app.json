@@ -1,0 +1,51 @@
+{
+  "pages": [
+    
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/cloudEntrance/CloudIndex/CloudIndex",
+    "pages/cloudEntrance/EnglishTestCloud/IndexEngCloud/IndexEngCloud",
+    "pages/cloudEntrance/EnglishTestCloud/smpEngCloud/smpEngCloud",
+    "pages/cloudEntrance/EnglishTestCloud/smp2EngCloud/smp2EngCloud",
+    "pages/cloudEntrance/EnglishTestCloud/sppEngCloud/sppEngCloud",
+    "pages/cloudEntrance/EnglishTestCloud/vspEngCloud/vspEngCloud",
+    "pages/cloudEntrance/EnglishTestCloud/vmpEngCloud/vmpEngCloud",
+    "pages/cloudEntrance/ChineseTestCloud/smpCHNCloud/smpCHNCloud",
+    "pages/cloudEntrance/ChineseTestCloud/smp2CHNCloud/smp2CHNCloud",
+    "pages/cloudEntrance/ChineseTestCloud/sppCHNCloud/sppCHNCloud",
+    "pages/cloudEntrance/ChineseTestCloud/vspCHNCloud/vspCHNCloud",
+    "pages/cloudEntrance/ChineseTestCloud/vmpCHNCloud/vmpCHNCloud",
+    "pages/serverEntrance/ServerIndex/ServerIndex",
+    "pages/serverEntrance/EnglishTestServer/IndexEngServer/IndexEngServer",
+    "pages/serverEntrance/EnglishTestServer/smpEngServer/smpEngServer",
+    "pages/serverEntrance/EnglishTestServer/smp2EngServer/smp2EngServer",
+    "pages/serverEntrance/EnglishTestServer/sppEngServer/sppEngServer",
+    "pages/serverEntrance/EnglishTestServer/vmpEngServer/vmpEngServer",
+    "pages/serverEntrance/EnglishTestServer/vspEngServer/vspEngServer",
+    "pages/serverEntrance/ChineseTestServer/IndexCHNServer/IndexCHNServer",
+    "pages/serverEntrance/ChineseTestServer/smp2CHNServer/smp2CHNServer",
+    "pages/serverEntrance/ChineseTestServer/smpCHNServer/smpCHNServer",
+    "pages/serverEntrance/ChineseTestServer/sppCHNServer/sppCHNServer",
+    "pages/serverEntrance/ChineseTestServer/vmpCHNServer/vmpCHNServer",
+    "pages/serverEntrance/ChineseTestServer/vspCHNServer/vspCHNServer",
+    "pages/cloudEntrance/ChineseTestCloud/IndexCHNCloud/IndexCHNCloud"
+	
+  ],
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": " Oral Training Environment ",
+    "navigationBarTextStyle": "black"
+  },
+  "plugins": {
+    "myPlugin": {
+      "version": "1.1.11",
+      "provider": "wxe5a00a1780c8eb95"
+    }
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

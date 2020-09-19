@@ -1,0 +1,36 @@
+<view class="empty_tip ">
+<view class="container_space2"></view>
+<view class="container_space"></view>
+
+<view class="container_title">
+ <text class="style_text_title">Please select the level of Chinese you want to experience</text>
+</view>
+
+<view class="container_space"></view>
+<view class="container_space"></view>
+
+<view class="container_button">
+<button class="style_button" bindtap="inputA">A Rank</button>
+</view>
+<view class="container_space3"></view>
+<view class="container_button">
+<button class="style_button" bindtap="inputB">B Rank</button>
+</view>
+<view class="container_space3"></view>
+<view class="container_button">
+<button class="style_button" bindtap="inputC">C Rank</button>
+</view>
+ 
+<view class="container_space"></view>
+<view class="container_space"></view>
+<view class="container_space"></view>
+
+<view class="container_logo">
+<text class="style_text_logo">Only for students</text>
+<text class="style_text_logo">Visitors please use experience function</text>
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+<view class="container_space"></view>
+<view class="container_space2"></view>
+</view>

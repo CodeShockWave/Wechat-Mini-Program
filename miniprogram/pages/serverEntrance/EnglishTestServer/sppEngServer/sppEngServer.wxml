@@ -1,0 +1,25 @@
+
+
+<view class="container_title">
+<text class="style_text_logo">历史成绩</text>
+</view>
+ 
+
+  <view class="everyweek" wx:for="{{postList}}">
+  第{{item.week}}天
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  第{{item.number}}次测试
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  平均分数:{{item.score}}\n
+  </view>
+
+
+  
+
+  
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+
+

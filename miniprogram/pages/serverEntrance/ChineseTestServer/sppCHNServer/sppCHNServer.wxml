@@ -1,0 +1,23 @@
+
+
+<view class="container_title">
+<text class="style_text_logo">Achievement</text>
+</view>
+ 
+
+  <view class="everyweek" wx:for="{{postList}}">
+  Day{{item.week}}
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  Test{{item.number}}
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  Average Score:{{item.score}}\n
+  </view>
+
+
+  
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+
+

@@ -1,0 +1,33 @@
+<view class="empty_tip">
+
+<view class="container_title">
+<text class="style_text_logo">Number of remaining recordings：{{practiceNumber}}</text>
+<text class="style_text_logo">Plan This Week</text>
+
+</view>
+ 
+ 
+
+<view class="style_text_content" wx:for="{{postList}}">{{item.content}}</view> 
+
+<view class="style_text_score">PronCompletion:{{PronCompletion}}</view>
+<view class="style_text_score">PronFluency:{{PronFluency}}</view>
+<view class="style_text_score">PronAccuracy:{{PronAccuracy}}</view>
+
+<view class="container_button">
+<button class="button_style" bindtap="onmusicTap">{{ bofangText }}</button>
+<button class="button_style" ontouchstart="ontouchstart" ontouchend="ontouchend">{{ btnText }}</button>
+</view>
+<view class="container_space4"></view>
+<view class="container_button">
+  <button class="button_style" bindtap="playVoice">{{shoutingText}}</button>
+<button class="button_style" bindtap="gotoPlanPage">View Plan</button>
+</view>
+
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+</view>
+
+

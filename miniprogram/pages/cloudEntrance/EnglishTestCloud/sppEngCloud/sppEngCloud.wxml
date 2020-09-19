@@ -1,0 +1,34 @@
+<view class="empty_tip">
+
+<view class="container_title">
+<text class="style_text_logo">历史成绩</text>
+</view>
+ 
+
+  <view class="everyweek" wx:for="{{postList}}">
+  任务{{item.planId}}
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  第{{4-item.count}}次测试
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  分数:{{item.accuracyScore}}
+  \n
+  </view>
+
+<view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+  <view class="container_space"></view>
+
+  
+
+  
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+</view>
+
+
+

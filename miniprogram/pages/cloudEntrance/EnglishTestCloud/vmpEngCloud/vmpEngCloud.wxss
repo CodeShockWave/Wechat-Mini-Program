@@ -1,0 +1,164 @@
+.empty_tip{
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;/*垂直居中*/
+  justify-content: center;/*水平居中*/
+}
+.container_space{
+  width: 750rpx;
+  height: 40rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: RGB(68,140,199);
+}
+.container_space4{
+  width: 750rpx;
+  height: 40rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color:  white;
+}
+
+.container_logo{
+  width: 750rpx;
+  height: 250rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: RGB(68,140,199);
+}
+
+.style_text_logo{
+  font-size: 30rpx;
+  color: white;
+}
+
+.all{
+  width: 750rpx;
+  height: 1300rpx;
+  background-color:RGB(68,140,199);
+}
+
+.title{
+  width: 750rpx;
+  flex-direction: column-reverse;
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: white;
+  background-color:RGB(68,140,199);
+}
+
+
+.style_text_content{
+  height: 700rpx;
+  display: flex;
+  padding-top: 20rpx;
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+  padding-bottom: 20rpx;
+  font-size: 45rpx;
+}
+
+.button_display{
+  height: 10rpx;
+  display: flex;
+  flex-direction: row;
+}
+
+.button_style{
+  width: 250rpx;
+  height: 150rpx;
+  line-height: 120rpx;
+  align-items: center;
+  
+}
+
+.style_text_score{
+  height: 80rpx;
+  display: flex;
+  padding-top: 5rpx;
+  padding-left: 0rpx;
+  margin-left: 0rpx;
+  padding-right: 20rpx;
+  padding-bottom: 5rpx;
+  font-size: 38rpx;
+  
+}
+
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+
+.upload-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+button{
+  margin: 15rpx
+}
+
+txv-video {
+    width:750rpx;
+    height:auto;
+}
+
+
+
+.container{
+    background: #eee;
+    padding-top: 20rpx;
+    padding-bottom: 20rpx;
+}
+input{
+  background: #fff;
+  height: 70rpx;
+  padding: 4rpx 40rpx;
+}
+.section{
+  margin: 40rpx 0;
+}
+.resps{
+  word-break:break-all;
+  margin-bottom: 50rpx;
+}
+
+.container_button{
+  width: 750rpx;
+  height: 400rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  
+}

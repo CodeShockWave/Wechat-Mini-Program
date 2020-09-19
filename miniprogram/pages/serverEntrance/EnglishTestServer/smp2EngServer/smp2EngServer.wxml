@@ -1,0 +1,22 @@
+<view class="empty_tip">
+
+<view class="container_title">
+<text class="style_text_logo">本日计划</text>
+</view>
+ 
+<view class="style_text_content" wx:for="{{postList}}">{{item.content}}</view> 
+<view class="container_space5"></view>
+
+<view class="container_button">
+<button class="button_style" bindtap="onmusicTap">播放试听</button>
+</view>
+<view class="container_space4"></view>
+<view class="container_button">
+<button class="button_style" bindtap="gotoPlanPage">查看计划</button>
+</view>
+
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+</view>

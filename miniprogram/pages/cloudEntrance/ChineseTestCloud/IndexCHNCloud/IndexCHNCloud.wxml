@@ -1,0 +1,40 @@
+<view class="empty_tip ">
+<view class="container_space"></view>
+<view class="container_space"></view>
+<view class="container_space"></view>
+
+<view class="container_title">
+ <text class="style_text_title">Spoken Chinese Test</text>
+</view>
+<view class="container_space"></view>
+<view class="container_space"></view>
+<view class="container_space"></view> 
+
+<view class="container_input">
+ <input class="style_input" type="text" maxlength="15" placeholder="Student Number" bindinput="uesrInput"></input>
+ </view>
+ <view class="container_space2"></view>
+ <view class="container_input">
+ <input class="style_input" password="true" type="text" maxlength="15" placeholder="Password" bindinput="passwordInput"></input>
+</view>
+
+<view class="container_space2"></view>
+
+<view class="container_button">
+ <button class="style_button" bindtap="visitorLogin">Experience</button>
+ <button class="style_button" bindtap="userLoginDB">Login</button>
+</view>
+
+<view class="container_space"></view>
+
+<view class="container_logo">
+<text class="style_text_logo">Only for students</text>
+<text class="style_text_logo">Visitors please use experience function</text>
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+<view class="container_space"></view>
+<view class="container_space"></view>
+
+</view>
+

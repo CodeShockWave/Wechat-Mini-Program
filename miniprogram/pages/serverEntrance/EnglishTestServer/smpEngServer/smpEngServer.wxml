@@ -1,0 +1,33 @@
+<view class="empty_tip">
+
+<view class="container_title">
+<text class="style_text_logo">本日计划  剩余录制次数：{{practiceNumber}}次</text>
+</view>
+ 
+ 
+
+<view class="style_text_content" wx:for="{{postList}}">{{item.content}}</view> 
+
+<view class="style_text_score">完整度：{{PronCompletion}}</view>
+<view class="style_text_score">流利度：{{PronFluency}}</view>
+<view class="style_text_score">精准度：{{PronAccuracy}}</view>
+
+<view class="container_button">
+<button class="button_style" bindtap="onmusicTap">{{ bofangText }}</button>
+<button class="button_style" ontouchstart="ontouchstart" ontouchend="ontouchend">{{ btnText }}</button>
+</view>
+
+
+<view class="container_space4"></view>
+<view class="container_button">
+<button class="button_style" bindtap="playVoice">{{shoutingText}}</button>
+<button class="button_style" bindtap="gotoPlanPage">查看计划</button>
+</view>
+
+<view class="container_logo">
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+</view>
+
+

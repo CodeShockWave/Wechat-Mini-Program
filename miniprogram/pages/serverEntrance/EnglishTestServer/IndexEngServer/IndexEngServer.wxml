@@ -1,0 +1,40 @@
+<view class="empty_tip ">
+<view class="container_space"></view>
+<view class="container_space"></view>
+<view class="container_space"></view>
+
+<view class="container_title">
+ <text class="style_text_title">英语口语教学平台</text>
+</view>
+<view class="container_space"></view>
+<view class="container_space"></view>
+<view class="container_space"></view> 
+
+<view class="container_input">
+ <input class="style_input" type="text" maxlength="15" placeholder="学号" bindinput="uesrInput"></input>
+ </view>
+ <view class="container_space2"></view>
+ <view class="container_input">
+ <input class="style_input" password="true" type="text" maxlength="15" placeholder="密码" bindinput="passwordInput"></input>
+</view>
+
+<view class="container_space2"></view>
+
+<view class="container_button">
+ <button class="style_button" bindtap="visitorLogin">游客体验</button>
+ <button class="style_button" bindtap="userLogin">登录</button>
+</view>
+
+<view class="container_space"></view>
+
+<view class="container_logo">
+<text class="style_text_logo">仅限学生教学使用</text>
+<text class="style_text_logo">游客请使用体验功能</text>
+<text class="style_text_logo">by SDJU.EI</text>
+</view>
+
+<view class="container_space"></view>
+<view class="container_space"></view>
+
+</view>
+
