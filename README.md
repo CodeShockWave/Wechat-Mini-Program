@@ -22,6 +22,7 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 ![Image text3](https://raw.githubusercontent.com/CodeShockWave/Wechat-Mini-Program/master/img/imgshow4.png)
 
 ## 部署教程(Deployment tutorial)
+
 ### 需要下载的文件有：
 ./cloud/
 
@@ -32,6 +33,7 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 .project.config.json
 
 ### 部署流程(Deployment process)
+
 #### 1. 将下载文件放入自定义文件夹内
 #### 2. 使用微信开发者工具【打开项目】选择上述文件夹
 #### 3. 部署本地的云服务和基于php服务器架构
@@ -54,6 +56,7 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 #### 7. 云存储中需要上传的文件：.mp3格式即可，需要与集合corpus中的voiceId匹配
 
 ### 开源许可证标注(Open source license annotation)
+
 请查看.LICENSE文件
 
 Please view the .LICENSE file
