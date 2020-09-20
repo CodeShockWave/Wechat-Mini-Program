@@ -19,5 +19,5 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 
 ## 项目体验小程序二维码或者链接(QR code or link of the project experience applet)
 
-< img src="https://github.com/CodeShockWave/Wechat-Mini-Program/blob/master/img/imgshow4.png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+< img src="https://github.com/CodeShockWave/Wechat-Mini-Program/blob/master/img/imgshow4.png" width="150" height="150" alt="图片加载失败时，显示这段字"/><img>
 
