@@ -41,6 +41,7 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 4.申请【智聆】端口的调用权限并填入自己的secretId和secretKey
 
 
+
 1. Put the downloaded file into a custom folder
 
 2. Use WeChat Developer Tools [Open Project] to select the above folder
