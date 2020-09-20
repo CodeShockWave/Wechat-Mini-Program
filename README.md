@@ -22,3 +22,8 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 ![Image text3](https://raw.githubusercontent.com/CodeShockWave/Wechat-Mini-Program/master/img/imgshow4.png)
 
 ## 部署教程(Deployment tutorial)
+### 需要下载的文件有：
+./cloud/
+./miniprogram 
+..gitignore
+.project.config.json 
