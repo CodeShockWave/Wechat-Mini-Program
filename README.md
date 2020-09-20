@@ -13,13 +13,14 @@ WeChat Mini Program is an application that can be used without downloading.
 
 The "listener" comprehensive voice evaluation system is an intelligent spoken language evaluation system. This small program applies the voice evaluation function for a variety of scenarios, supports multiple modes such as words and sentences, and supports pronunciation "accuracy" (GOP). All-round scoring mechanisms such as fluency, completeness, and accent accuracy, and the similarity of expert scoring is more than 95%. It can effectively determine the user’s language level and save the user’s "completeness", "fluency", "accuracy" and other important speech recognition indicators in time, which helps to analyze and correct students' pronunciation problems in the future.
 
+
 【项目效果截图(Project effect screenshot)】
 
 ![Image text](https://raw.githubusercontent.com/CodeShockWave/Wechat-Mini-Program/master/img/imgshow1.png)
 ![Image text](https://raw.githubusercontent.com/CodeShockWave/Wechat-Mini-Program/master/img/imgshow2.png)
 ![Image text](https://raw.githubusercontent.com/CodeShockWave/Wechat-Mini-Program/master/img/imgshow3.png)
 
-【项目体验小程序二维码或者链接】
 
-QR code or link of the project experience applet:
+【项目体验小程序二维码或者链接(QR code or link of the project experience applet)】
+
 
