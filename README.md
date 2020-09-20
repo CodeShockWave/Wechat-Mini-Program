@@ -33,15 +33,22 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 
 ### 部署流程(Deployment process)
 1.将下载文件放入自定义文件夹内
+
 2.使用微信开发者工具【打开项目】选择上述文件夹
+
 3.部署本地的云服务和基于php服务器架构
+
 4.申请【智聆】端口的调用权限并填入自己的secretId和secretKey
 
 
 1. Put the downloaded file into a custom folder
+
 2. Use WeChat Developer Tools [Open Project] to select the above folder
+
 3. Deploy local cloud services and PHP server architecture
+
 4. Apply for [Zhi Ling] port call permission and fill in your own secretId and secretKey
+
 
 ### 开源许可证标注(Open source license annotation)
 请查看.LICENSE文件
