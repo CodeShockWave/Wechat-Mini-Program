@@ -1,9 +1,10 @@
 # Wechat-Mini-Program
 WeChat Mini Program is an application that can be used without downloading.
 
-【项目名称】“倾听者”综合型语音评价系统
+【项目名称(Project Title)】
+“倾听者”综合型语音评价系统("Listen" Comprehensive Voice Evaluation System)
 
-【Project Title】"Listen" Comprehensive Voice Evaluation System
+
 
 【项目介绍】“倾听者”综合型语音评价系统是一个智能的口语评测系统，该小程序针对多种场景应用了语音评测功能，支持单词，句子等多种模式，支持发音“准确度”（GOP），“流利度”，“完整度”，重音准确度等全方位打分机制，专家打分相似度95%以上。能够有效判别用户的语言水平，及时保存用户的“完整度”，“流利度”，“精确度”等语音识别的重要指标，有助于后续对于学生的发音问题进行分析和纠正。
 
