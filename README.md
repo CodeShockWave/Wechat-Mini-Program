@@ -23,7 +23,7 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 
 ## 5.部署教程(Deployment tutorial)
 
-### 需要下载的文件有：
+### 需要下载的文件有(The files that need to be downloaded)
 ./cloud/
 
 ./miniprogram
