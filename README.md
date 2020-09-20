@@ -51,6 +51,8 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 ##### 集合user：
 {"_id":"60173c665f50e0e100cf8eb65356e71c","uid":"1","Id":"admin1","_openid":"o-Ran5MSfQ31Nd3-KTI-Wbl7hmJ4","classId":"1961","name":"小红","password":"yunkaifa","rank":"A"}
 
+#### 7. 云存储中需要上传的文件：.mp3格式即可，需要与集合corpus中的voiceId匹配
+
 ### 开源许可证标注(Open source license annotation)
 请查看.LICENSE文件
 
