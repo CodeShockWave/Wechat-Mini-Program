@@ -30,8 +30,11 @@ The "listener" comprehensive voice evaluation system is an intelligent spoken la
 ..gitignore
 
 .project.config.json 
-
-
+### 部署流程：
+#### 1.将下载文件放入自定义文件夹内
+#### 2.使用微信开发者工具【打开项目】选择上述文件夹
+#### 3.部署本地的云服务和基于php服务器架构
+#### 4.申请【智聆】端口的调用权限并填入自己的secretId和secretKey
 
 
 
