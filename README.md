@@ -12,6 +12,6 @@ Project Introduction:The "listener" comprehensive voice evaluation system is an 
 项目效果截图:
 Project effect screenshot:
 
-![Image text](https://github.com/CodeShockWave/Wechat-Mini-Program/blob/master/img/imgshow1.png)
-![Image text](https://github.com/CodeShockWave/Wechat-Mini-Program/blob/master/img/imgshow2.png)
-![Image text](https://github.com/CodeShockWave/Wechat-Mini-Program/blob/master/img/imgshow3.png)
+![Image text](https://raw.githubusercontent.com/CodeShockWave/Wechat-Mini-Program/master/img/imgshow1.png)
+![Image text](https://raw.githubusercontent.com/CodeShockWave/Wechat-Mini-Program/master/img/imgshow2.png)
+![Image text](https://raw.githubusercontent.com/CodeShockWave/Wechat-Mini-Program/master/img/imgshow3.png)
